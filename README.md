@@ -31,7 +31,7 @@ On a aussi ajouté **Google Analytics** afin de pouvoir analyser nos campagnes d
 
 
 ## Stratégie d'acquisition 
-Une de nos deux cibles est les fondateurs ou futur fondateurs de startup tech qui n'ont pas de compétences techniques.
+#### Une de nos deux cibles est les fondateurs ou futur fondateurs de startup tech qui n'ont pas de compétences techniques.
 Beaucoup de ces profils sont plutôt business et cherchent un CTO avec qui s'associer pour lancer leur projet mais ont du mal à les trouver et les convaincre.
 _Il faut dire que les développeurs ne manquent pas de propositions et il est pas facile de les convaincre !_
 
@@ -43,3 +43,15 @@ En effet, Anthony Amar en est la preuve vivante : il fait THP pour acquérir des
 * On lance notre bot que l'on a développé sur Ruby pour l'occasion (cf. les services)
 * Le bot va récupérer tout les emails des expediteurs, les ajouter dans la liste mailchimp
 * Et leur répondre avec un mail automatique qui explique qu'il peut lancer sa startup en devenant son propre CTO avec THP. L'email envoi également le lien de la landing page :boom: :boom: 
+    
+#### L'autre cible sont les gens en reconversion professionnelle
+Ces profils sont plus divers, la tranche d'âge est plus large, globalement, ce sont des gens qui ont déjà de l'expérience mais qui sentent que leur métier va tôt ou tard devoir faire face à la révolution numérique.
+#### La stratégie est la suivante:
++ On a exploré quelles étaient les formations analogues à celle de THP (du benchmarking rapide)
++ On a ensuite écumé les forums, groupe fb, où les gens demandaient des avis sur ces formations (ils sont déjà en recherche active, donc leur présenter THP est dans la continuité de leur intention initiale)
++ On répond aux demandes d'avis en disait qu'on connait pas le centre de formation évoqué, par contre on glisse notre landing
++ [Un petit exemple ici](http://forums.studyrama.com/index.php?showtopic=78823#entry307662) :boom: :boom: :boom:
+
+----
+**Tout ceci en 1 journée, par :**
+:fist: Mathieu, Yann, Paul-Henry, Thomas et Benjamin :fist: 
