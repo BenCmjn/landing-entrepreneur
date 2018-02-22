@@ -3,10 +3,17 @@ Rails.application.configure do
 
   # Code is not reloaded between requests.
   config.cache_classes = true
-  config.serve_static_assets = true
-  config.assets.compile = true
+  # Disable Rails's static asset server (Apache or nginx will already do this)
+config.serve_static_assets = false
 
+# Compress JavaScripts and CSS
+config.assets.compress = true
 
+# Don't fallback to assets pipeline if a precompiled asset is missed
+config.assets.compile = false
+
+# Generate digests for assets URLs
+config.assets.digest = true
   # Eager load code on boot. This eager loads most of Rails and
   # your application in memory, allowing both threaded web servers
   # and those relying on copy on write to perform better.
@@ -62,7 +69,7 @@ Rails.application.configure do
 
   # Use a real queuing backend for Active Job (and separate queues per environment)
   # config.active_job.queue_adapter     = :resque
-  # config.active_job.queue_name_prefix = "landing-page-thp_#{Rails.env}"
+  # config.active_job.queue_name_prefix = "landing-entrepreneur2_#{Rails.env}"
   config.action_mailer.perform_caching = false
 
   # Ignore bad email addresses and do not raise email delivery errors.
