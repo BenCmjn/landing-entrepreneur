@@ -3,13 +3,9 @@
         <div class="container">
           <h1 class="masthead-heading mb-0">The Hacking Project</h1>
           <h2 class="masthead-subheading mb-0">3 mois pour coder ton produit tech !</h2>
-          <a href="#" class="btn btn-primary btn-xl rounded-pill mt-5">En savoir plus</a>
+          <button class="btn btn-primary btn-xl rounded-pill mt-5" data-toggle="modal" data-target=".bd-example-modal-lg">En savoir plus</button>
         </div>
       </div>
-      <!-- <div class="bg-circle-1 bg-circle"></div>
-      <div class="bg-circle-2 bg-circle"></div>
-      <div class="bg-circle-3 bg-circle"></div>
-      <div class="bg-circle-4 bg-circle"></div> -->
     </header>
 
     <section>
@@ -22,14 +18,13 @@
         <div class="row align-items-center">
           <div class="col-lg-6 order-lg-2">
             <div class="p-4">
-              <img class="img-fluid" src= "<%= image_url('Maddyness.png') %>" alt="Extrait Maddyness">
-
+              <img class="img-fluid img-thumbnail" src= "<%= image_url('Maddyness.png') %>" alt="Extrait Maddyness">
             </div>
           </div>
           <div class="col-lg-6 order-lg-1">
             <div class="p-5">
               <h2 class="display-6">Parution Madyness</h2>
-              <p><em>Aucune condition particulière pour se former, les fondateurs veulent de la mixité. Les élèves peuvent donc avoir en 17 et 65 ans et savoir parler un peu anglais. La motivation, la curiosité et la détermination sont les clés du succès pour réussir dans cette formation qui peut occuper 10 heures de travail par jour. En journée ou en nocturne, l’élève doit être disponible pendant 11 semaines pour apprendre.</em></p>
+              <p><em>Aucune condition particulière pour se former, les fondateurs veulent de la mixité. Les élèves peuvent donc avoir en 17 et 65 ans et savoir parler un peu anglais. Motivation, curiosité et détermination sont les clés du succès pour réussir dans cette formation. L’élève doit être disponible pendant 11 semaines pour apprendre.</em></p>
               <p><strong>|</strong> Paru le 5 septembre 2017</p>
             </div>
           </div>
@@ -42,7 +37,7 @@
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="p-5">
-              <img class="img-fluid" src= "<%= image_url('Les_echos.png') %>" alt="Extrait Les Échos">
+              <img class="img-fluid img-thumbnail" src= "<%= image_url('Les_echos.png') %>" alt="Extrait Les Échos">
             </div>
           </div>
           <div class="col-lg-6">
@@ -61,19 +56,96 @@
         <div class="row align-items-center">
           <div class="col-lg-6 order-lg-2">
             <div class="p-5">
-              <img class="img-fluid" src= "<%= image_url('Cremedelacreme.png') %>" alt="Extrait Crême de la crême">
+              <img class="img-fluid img-thumbnail" src= "<%= image_url('Cremedelacreme.png') %>" alt="Extrait Crême de la crême">
             </div>
           </div>
           <div class="col-lg-6 order-lg-1">
             <div class="p-5">
               <h2 class="display-6">Même la crême de la crême</h2>
-              <p><em>En 11 semaines, les élèves vont apprendre des bases solides du développement full stack : HTML / CSS / JavaScript / jQuery / Ruby / Rails / SQL. Ainsi, ils seront capables de recréer un clone de Airbnb, manipuler des datas, scrapper des sites internet, ou faire des Facebook bots. En fin de formation, les élèves doivent réaliser un projet final, qui leur demandera de mettre en pratique ces compétences lors d’un projet perso (une idée de start-up par exemple).</em></p>
+              <p><em>En 11 semaines, les élèves apprennent des bases solides du développement full stack : HTML / CSS / JavaScript / jQuery / Ruby / Rails / SQL. Ainsi, ils seront capables de recréer un clone de Airbnb, manipuler des datas, scrapper des sites internet, ou faire des Facebook bots. En fin de formation les élèves réalisent un projet final, mettant en pratique les compétences acquises (une idée de start-up par exemple).</em></p>
               <p><strong>|</strong> Paru le 13 Juin 2017</p>
             </div>
           </div>
         </div>
       </div>
     </section>
+
+    <section>
+      <div class="container">
+      	<div class="row align-items-center">
+      		<div class="col-lg-12">
+      			<h2 class="display-4 text-center">ILS ONT TOUS NOTÉ THP 5 ⭐</h2>
+      		</div>
+
+		<div class="col-lg-12 text-center">
+	        <img class="img-fluid img-thumbnail" src= "<%= image_url('Avis_Anthony.png') %>" alt="Avis_Anthony">
+		</div>      	
+		<div class="col-lg-12 text-center">
+			<img class="img-fluid img-thumbnail" src= "<%= image_url('Avis_Isa.png') %>" alt="Avis_Isa">	
+		</div>      	
+		<div class="col-lg-12 text-center">
+			<img class="img-fluid img-thumbnail" src= "<%= image_url('Avis_Vince.png') %>" alt="Avis_Vince">
+		</div>      	
+	</div>	
+    </div>
+    </section>
+
+    <section>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-12">
+                <div class="p-4">
+                    <h3 class="display-4">
+                        Les points clés de la formation: 👉
+                    </h3>
+                </div>
+            </div>
+            <div class="col-lg-12">
+                <div class="p-2">
+                    <h5 class="display-6">
+                        - Une base complète de langages pour être full stack 💻
+                    </h5>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
+                        <li>JQuery</li>
+                        <li>Ruby</li>
+                        <li>Ruby on Rails</li>
+                        <li>SQL</li>
+                    </ul>
+                </div>
+                 <div class="p-2">
+                      <h5 class="display-6">
+                        - Utilise les outils des meilleurs startups 🚀
+                    </h5>
+                    <ul>
+                        <li>Heroku</li>
+                        <li>GitHub</li>
+                        <li>Stripe</li>
+                        <li>MailChimp</li>
+                        <li>Algolia</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-12">
+                <div class="p-2">
+                    <h5 class="display-6">
+                        - Une communeauté composé de profils divers pour un brassage de compétences
+                    </h5>
+                    <ul>
+                     <li>Ingénieur</li>
+                        <li>Designer</li>
+                        <li>Juriste</li>
+                        <li>Marketing</li>
+                        <li>Sales</li>
+                        </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
     <!-- Footer -->
     <footer class="py-5 bg-black">
@@ -82,4 +154,8 @@
       </div>
       <!-- /.container -->
     </footer>
+
+    <!-- Mailchimp Plug-in -->
+    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+    <script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us17.list-manage.com","uuid":"2bcffce7edf2538e9e8563ed3","lid":"005ac71f11"}) })</script>
 
