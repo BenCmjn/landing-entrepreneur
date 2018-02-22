@@ -1,5 +1,7 @@
 {
   "name": "landing-page-thp",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "startbootstrap-one-page-wonder": "^4.0.0"
+  }
 }
