@@ -3,7 +3,7 @@
 ### Menu
 
  1. [Côté front-end](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#côté-front-end)
- 2. [Stratégie d'acquisition](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#Acquisition)
+ 2. [Stratégie d'acquisition](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#stratégie-dacquisition)
  2. [Metrics](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#Metrics)
  4. [Pistes d'améliorations](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#pistes-daméliorations)
 
