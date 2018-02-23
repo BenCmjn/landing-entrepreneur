@@ -1,8 +1,7 @@
-#README
+##README
 
-##Menu
+###Menu
 
-MENU
  1. [Structure du site](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#côté-front-end)
  2. [Acquisition](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#Stratégie-d'acquisition)
  2. [Back-End](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#Metrics)
