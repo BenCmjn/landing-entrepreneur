@@ -4,9 +4,9 @@
 
 MENU
  1. [Structure du site](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#côté-front-end)
- 2. [Acquisition](https://github.com/FabienMllts/Best-LP-THP/blob/master/README.md#acquisition)
- 3. [Métrics](https://github.com/FabienMllts/Best-LP-THP/blob/master/README.md#métrics)
- 4. [Pistes d'améliorations](https://github.com/FabienMllts/Best-LP-THP/blob/master/README.md#pistes-daméliorations)
+ 2. [Acquisition](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#Stratégie-d'acquisition)
+ 2. [Back-End](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#Metrics)
+ 4. [Pistes d'améliorations](https://github.com/BenCmjn/landing-entrepreneur/blob/master/README.md#pistes-daméliorations)
 
 ### Côté front-end
 
@@ -33,13 +33,6 @@ Enfin, nous avons mis [Olark](https://www.olark.com) pour que les visiteurs puis
 Il n'y a **aucun** lien autre que le submit pour réceptionner les emails.
 
 
-### Côté back-end :
-
-Pour chaque app, nous avons pluggé **un compte MailChimp** qui récupère les emails que l'utilisateur rentre dans l'input contre un extrait du programme de THP (la journée HTML/CSS pour refaire la page de Google par exemple).
-
-On a aussi ajouté **Google Analytics** afin de pouvoir analyser nos campagnes de communication (cela est couplé à l'outil Google Analytics URL Builder, ainsi que BitLy pour raccourci les URLs).
-
-
 ### Stratégie d'acquisition
 #### Une de nos deux cibles est les fondateurs ou futur fondateurs de startup tech qui n'ont pas de compétences techniques.
 Beaucoup de ces profils sont plutôt business et cherchent un CTO avec qui s'associer pour lancer leur projet mais ont du mal à les trouver et les convaincre.
@@ -61,6 +54,25 @@ Ces profils sont plus divers, la tranche d'âge est plus large, globalement, ce 
 + On a ensuite écumé les forums, groupe fb, où les gens demandaient des avis sur ces formations (ils sont déjà en recherche active, donc leur présenter THP est dans la continuité de leur intention initiale)
 + On répond aux demandes d'avis en disait qu'on connait pas le centre de formation évoqué, par contre on glisse notre landing
 + [Un petit exemple ici](http://forums.studyrama.com/index.php?showtopic=78823#entry307662) :boom: :boom: :boom:
+
+
+### Metrics :
+
+Pour chaque app, nous avons pluggé **un compte MailChimp** qui récupère les emails que l'utilisateur rentre dans l'input contre un extrait du programme de THP (la journée HTML/CSS pour refaire la page de Google par exemple).
+
+On a aussi ajouté **Google Analytics** afin de pouvoir analyser nos campagnes de communication (cela est couplé à l'outil Google Analytics URL Builder, ainsi que BitLy pour raccourci les URLs).
+
+
+
+**Taux d'acquisition**: N/A (24h nécessaire pour avoir les données)
+
+**Taux de convertion**: N/A (24h nécessaire pour avoir les données)
+
+
+### Pistes d'améliorations
+
+- Trouver de nouveaux canaux d'acquisitions
+- Optimiser le taux d'inscription à la newsletter
 
 ----
 **Tout ceci en 1 journée, par :**
