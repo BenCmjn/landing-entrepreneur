@@ -55,7 +55,7 @@ Ces profils sont plus divers, la tranche d'âge est plus large, globalement, ce 
 + [Un petit exemple ici](http://forums.studyrama.com/index.php?showtopic=78823#entry307662) :boom: :boom: :boom:
 
 
-### Metrics :
+### Metrics
 
 Pour chaque app, nous avons pluggé **un compte MailChimp** qui récupère les emails que l'utilisateur rentre dans l'input contre un extrait du programme de THP (la journée HTML/CSS pour refaire la page de Google par exemple).
 
